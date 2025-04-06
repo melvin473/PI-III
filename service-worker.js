@@ -4,9 +4,13 @@ const urlsToCache = [
   '/index.html',
   '/manifest.json',
   '/css/style.css',
-  '/js/main.js',
   '/images/icon-192x192.png',
   '/images/icon-512x512.png',
+  'js/jquery.min.js',
+  'js/modernizr.js',
+  'js/plugins.js',
+  'js/script.min.js',
+  'js/SmoothScroll.js'
 ];
 
 // Instala o service worker e armazena os arquivos no cache
