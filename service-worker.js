@@ -2,6 +2,7 @@ const CACHE_NAME = 'diario-autista';
 const urlsToCache = [
   '/',
   '/index.html',
+  '/login.html',
   '/manifest.json',
   '/css/style.css',
   '/images/icon-192x192.png',

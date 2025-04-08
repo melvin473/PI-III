@@ -1,7 +1,7 @@
 {
     "name": "Meu Diário de Emoções",
     "short_name": "Diário",
-    "start_url": "/",
+    "start_url": "/login.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4a90e2",
