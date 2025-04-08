@@ -20,3 +20,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_PROJETO_INTEGRADOR_III_D7E19 }}
           projectId: projeto-integrador-iii-d7e19
+          channelId: live
